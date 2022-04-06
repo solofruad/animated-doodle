@@ -1,0 +1,19 @@
+{
+  "name": "animated-doodle",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto en node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solofruad/animated-doodle.git"
+  },
+  "author": "Solofruad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solofruad/animated-doodle/issues"
+  },
+  "homepage": "https://github.com/solofruad/animated-doodle#readme"
+}
