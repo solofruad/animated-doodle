@@ -1,2 +1,3 @@
 var hola = "Hola mundo"
-console.log(hola)
+var numero = 4
+console.log(hola+numero)
